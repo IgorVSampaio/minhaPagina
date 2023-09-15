@@ -159,8 +159,11 @@ body {
     }
     
     .apresentacao__links__navegacao {
-        padding: 9.5px 0 ;
-        font-size: 100%;
+        
+        width: 50%;
+        height: 50%;
+        font-size: auto;
+        
     }
 
     .rodape {
