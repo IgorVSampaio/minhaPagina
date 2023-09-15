@@ -148,18 +148,20 @@ body {
     }
     
     .apresentacao__conteudo__titulo {
-        font-size: 100%;
+        font-size: 1.5rem;
+        
     }
     
     .apresentacao__conteudo__texto {
-        font-size: 100%;
+        font-size: 1.5rem;
+
         
     }
     
     .apresentacao__links__navegacao {
-        width: 80%;
+        padding: 9.5px 0 ;
     }
-    
+
     .rodape {
         font-size: 100%;
     }
